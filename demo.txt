@@ -1,1 +1,1 @@
-test delete 在master分支中加入的冲突内容.
+test delete 在master分支中加入的冲突内容 and test branch.
